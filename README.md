@@ -1,2 +1,2 @@
 # recipe
-recipefun
+This is my recipe page.
